@@ -41,7 +41,7 @@ Sou apaixonado por livros📖, leio principalmente mistério🕵️‍♂️ e f
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRSdev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>          
 
     
-          
+![Snake animation](https://github.com/MateusRSdev/MateusRSdev/blob/output/github-contribution-grid-snake.svg)          
           
           
 
