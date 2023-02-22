@@ -14,6 +14,6 @@ Sou apaixonado por livros📖, leio principalmente mistério🕵️‍♂️ e f
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 📫 voçê pode entrar em contato comigo pelo [Whatsapp](https://wa.me/995742413)
+- 📫 voçê pode entrar em contato comigo pelo [Whatsapp](https://wa.me/995742413) ou pelo [Instagram](https://www.instagram.com/mateus_rs_dev/?igshid=ZDdkNTZiNTM%3D)
 - ⚡ Curiosidade: quando eu era criança eu jogava **Minecraft** e gostava muito de mexer com **Redstone** e fazer umas maquinas malucas com ela. *PS: Acho q foi ai que tudo começou...*
 
