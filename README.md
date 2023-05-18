@@ -34,7 +34,8 @@ Sou apaixonado por livros📖, leio principalmente mistério🕵️‍♂️ e f
 ## À aprender...
 
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  whidth="60px" height="60px"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  whidth="60px" height="60px"   /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" whidth="60px" height="60px"   />
+          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRSdev&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
           
