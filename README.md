@@ -20,13 +20,12 @@ Sou apaixonado por livros📖, leio principalmente mistério🕵️‍♂️ e f
 
 ### Front-end:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" whidth="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" whidth="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" whidth="50px" height="50px"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  whidth="50px" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" whidth="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" whidth="50px" height="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" whidth="50px" height="50px"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  whidth="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" whidth="50px" height="50px"/>
           
 
 ### Back-end:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" whidth="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" whidth="50px" height="50px" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" whidth="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" whidth="50px" height="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   whidth="50px" height="50px"/>
 
 ### Ferramentas
 
@@ -34,7 +33,8 @@ Sou apaixonado por livros📖, leio principalmente mistério🕵️‍♂️ e f
           
 ## À aprender...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   whidth="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" whidth="50px" height="50px"/>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRSdev&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
           
